@@ -1,4 +1,4 @@
-%contar a partir de la palabra "function caidaLibre()"
+
 function caidaLibre()
     % Solicitar al usuario qué desea calcular
     opcion = menu('Seleccione qué desea calcular:', 'Posición inicial', 'Velocidad inicial en y', 'Tiempo', 'Posición final', 'Velocidad final');
